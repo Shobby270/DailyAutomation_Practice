@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testNG_Practice.TestNG2">
+      <class name="seleniumPractice.GetAllLinksAndVerify">
         <methods>
-          <include name="test3"/>
+          <include name="getLinks"/>
         </methods>
-      </class> <!-- testNG_Practice.TestNG2 -->
+      </class> <!-- seleniumPractice.GetAllLinksAndVerify -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

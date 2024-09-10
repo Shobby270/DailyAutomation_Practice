@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-09-06T00:55:26 IST" name="Default suite" finished-at="2024-09-06T00:55:51 IST" duration-ms="24899">
+  <suite started-at="2024-09-10T16:01:03 IST" name="Default suite" finished-at="2024-09-10T16:03:12 IST" duration-ms="128991">
     <groups>
     </groups>
-    <test started-at="2024-09-06T00:55:26 IST" name="Default test" finished-at="2024-09-06T00:55:51 IST" duration-ms="24899">
-      <class name="testNG_Practice.TestNG2">
-        <test-method signature="test3()[pri:0, instance:testNG_Practice.TestNG2@1283bb96]" started-at="2024-09-06T00:55:26 IST" name="test3" finished-at="2024-09-06T00:55:51 IST" duration-ms="24842" status="PASS">
+    <test started-at="2024-09-10T16:01:03 IST" name="Default test" finished-at="2024-09-10T16:03:12 IST" duration-ms="128991">
+      <class name="seleniumPractice.GetAllLinksAndVerify">
+        <test-method signature="getLinks()[pri:0, instance:seleniumPractice.GetAllLinksAndVerify@49e53c76]" started-at="2024-09-10T16:01:03 IST" name="getLinks" finished-at="2024-09-10T16:03:12 IST" duration-ms="128930" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test3 -->
-      </class> <!-- testNG_Practice.TestNG2 -->
+        </test-method> <!-- getLinks -->
+      </class> <!-- seleniumPractice.GetAllLinksAndVerify -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
