@@ -3,11 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="seleniumPractice.GetAllLinksAndVerify">
+      <class name="handlingPannelMenuFElemts.HandleMenuPannel">
         <methods>
-          <include name="getLinks"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="leftMenu"/>
         </methods>
-      </class> <!-- seleniumPractice.GetAllLinksAndVerify -->
+      </class> <!-- handlingPannelMenuFElemts.HandleMenuPannel -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

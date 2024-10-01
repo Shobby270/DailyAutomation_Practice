@@ -30,7 +30,7 @@ public class GetAllLinksAndVerify {
 	  for(WebElement link : allLinks) 
 	  { 
 		  String url = link.getAttribute("href"); 
-		  GetAllLinksAndVerify.verifyLinks(url);
+		  verifyLinks(url);
 		  
 	  
 	  }
